@@ -1,1 +1,6 @@
 @import './base.css';
+
+.btn-gradient {
+  @apply px-8 py-4 text-white lg:py-5 lg:px-11;
+  background: linear-gradient(62deg, #2600fc 0%, #ff00ea 100%);
+}

@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --color-dark: #0f051d;
+}
+
 body {
   font-family: 'Inter', serif;
   max-width: 1920px;
